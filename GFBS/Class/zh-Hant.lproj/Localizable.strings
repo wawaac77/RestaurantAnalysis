@@ -1,0 +1,351 @@
+/* 
+  Localizable.strings
+  GFBS
+
+  Created by Alice Jin on 25/8/2017.
+  Copyright © 2017 apple. All rights reserved.
+*/
+
+"All" = "全部";
+"Following" = "關注";
+"Me" = "我";
+"Leaderboard" = "排行榜";
+"My Zuzu" = "我的Zuzu";
+"check-in" = "個簽到";
+"Check-in" = "簽到";
+"Points" = "分";
+"like" = "贊";
+"likes" = "贊";
+"Home" = "主頁";
+"Inbox" = "簡訊";
+"Invite Friends" = "邀請朋友";
+"My Friends" = "我的朋友";
+"Cancel" = "取消";
+"Yes" = "確定";
+"Delete" = "刪除";
+"What is in your mind" = "你在想什麼";
+"Overview" = "概覽";
+"Review" = "評價";
+"Photo" = "相片";
+"Menu" = "菜單";
+"Events" = "活動";
+"Other Information" = "其他資訊";
+
+"Comments" = "評論";
+"Send" = "發送";
+
+"Add Friends" = "添加好友";
+"Enter keyword" = "輸入關鍵詞";
+
+"Pull to refresh" = "下拉更新";
+
+//*********** Check-in **************//
+"Please select your check-in location" = "請選擇您的簽到地點";
+"What's in your mind" = "你在想什麼";
+"Check in" = "簽到";
+
+//*********** My Zuzu **************//
+"Find friends on Facebook" = "尋找在Facebook上的朋友";
+"Connect with Google+" = "與Google+連接";
+"SMS Your Friends" = "傳簡訊給你的朋友";
+"Share URL" = "分享鏈接";
+
+//*********** setting **************//
+"Settings" = "設置";
+"Your Account" = "你的賬戶";
+"Personal Information" = "個人信息";
+"Visibility" = "可見度";
+"System" = "系統";
+
+"Hi, mate" = "哈嘍";
+"Are you sure to log out?" = "你確定要退出嗎？";
+"Log Out >" = "退出 >";
+
+"Language" = "語言";
+"Age" = "年齡";
+"Gender" = "性別";
+"Phone" = "電話";
+"Industry" = "行業";
+"Profession" = "職業";
+"Interests" = "興趣";
+"Anyone can view my profile." = "任何人可以查看我的檔案";
+"Anyone can message me." = "任何人可以向我發送信息";
+"Let my friends see my email address." = "讓我的朋友看見我的郵件地址";
+"Allow Notification" = "允許通知";
+"Email Notification" = "電郵通知";
+"Sounds" = "聲音";
+"Show on Lock Screen" = "於鎖定畫面中顯示";
+
+"System" = "系統";
+"About Zuzu" = "關於Zuzu";
+"Message Admin" = "信息管理";
+"Version 1.0" = "版本1.0";
+
+"Busy network, please try later~" = "網絡繁忙，請稍後再試";
+
+//*********** Calendar **************//
+"hours ago" = "小時前";
+"minutes ago" = "分鐘前";
+"Just now" = "剛剛";
+
+
+//*********** Restaurant Owner **************//
+"Connect with people who share the same interest." = "與相同興趣的人連繫";
+"want to make a booking a tomorrow." = "想在明天作一個預約";
+
+"Your position has been raising. View more and check your position now." = "你的名次提升了。觀看更多及查看你現在的名次。";
+
+"has canceled the booking on the 29 January, 2017." = "取消了他2017年1月29日的預約。";
+
+
+
+"Movies" = "電影";
+
+"Dancing" = "跳舞";
+
+"Pets" = "寵物";
+
+
+
+"Restaurant Information" = "餐廳資訊";
+
+
+"Summary" = "大鋼";
+
+"Your Review" = "你的評論";
+
+"Review Summary" = "評論大鋼";
+
+"Reviews" = "評論";
+
+"Services" = "服務";
+
+"Food" = "食物";
+
+"Atmosphere" = "環境";
+
+"Hygiene" = "潔淨度";
+
+"What can be done better?" = "什麼可以做得更好?";
+
+"Report Spam?" = "報告濫發訊息";
+
+"No" = "否";
+
+"Yes" = "是";
+
+
+"Pending" = "待審核";
+"History" = "歷史";
+
+"Tomorrow" = "明天";
+
+"Later This Week" = "本周晚些時候";
+
+
+
+"Leave Peter NG a message" = "留給吳彼得一個訊息";
+
+"Sorry we are full" = "不好意思，我們預約已滿";
+
+"Not able to accommodate all your guests" = "不能容納全部的客人";
+
+"Private Function" = "私人活動";
+
+"Sorry we are closed" = "不好意思，我們關門了";
+
+
+
+"Last week" = "上周";
+
+
+"Create an effective unforgettable dining experience today" = "共同創造難忘的用餐之旅";
+
+"Don’t Allow" = "不允許";
+
+"Allow" = "允許";
+
+
+
+"login" = "登入";
+
+"sign up" = "註冊";
+
+"Login with Facebook" = "使用Facebook 登入";
+
+"Login with Google+" = "使用Google+ 登入";
+
+"or" = "或者";
+
+"Login with Zuzu Account" = "登入Zuzu 帳號";
+
+"Email" = "電子郵件";
+
+"Password" = "密碼";
+
+"Forget password" = "忘記密碼";
+
+"Next" = "下一頁";
+
+"Continue" = "繼續";
+
+
+"Restaurant Name" = "餐廳名稱";
+
+"Do you know..." = "你知道嗎...";
+"When you refer a friend to use Zuzu the restaurant account, you’ll get a free promo ads at the marketplace." = "當你介紹一個朋友去使用Zuzu餐廳帳號，你就能在市場上獲得一個免費的宣傳廣告。";
+
+
+"Booking Pending" = "個待審核的預約";
+
+"Your Ratings" = "你的評分";
+
+"Popular Times" = "受歡迎時間";
+
+"peak" = "高峰";
+
+"Mon – Thu" = "星期一至星期五";
+
+"Top Interest" = "最有興趣";
+
+"Travel & Adventure" = "旅行與探險";
+
+"Movies" = "電影";
+
+"Financial Investment" = "財經投資";
+
+"Return Customer" = "再訪客";
+
+"New" = "新訪問";
+
+"Return" = "再訪問";
+
+"Customer-Tier Ratio" = "顧客層級比例";
+
+"People" = "人數";
+
+"Tier" = "層級";
+
+"Host" = "舉辦者";
+
+"Gender" = "性別";
+
+"Age Group" = "年齡組別";
+
+"Competitive Insights" = "競爭見解";
+
+"Cuisine – Position 10 out of 65" = "菜式 – 65名中的第10名";
+
+"Location" = "地點";
+
+"Home" = "主頁";
+
+"Ratings" = "評分";
+
+"Booking" = "預約";
+"Guests" = "位客人";
+
+"Calendar" = "日曆";
+
+"Profile" = "檔案";
+"Settings" = "設定";
+
+
+
+"Notifications" = "通知";
+
+"Reminder: You have 22 pending bookings" = "提示: 22個待審核的預約";
+
+"An hour ago" = "一個小時前";
+
+"wrote a review about you." = "寫了一則有關你的評論";
+
+
+
+
+
+
+
+"Event information" = "活動資訊";
+
+"Interest" = "興趣";
+
+"Food, Game, Arts & Culture, Pet" = "食物，遊戲，藝術和文化，寵物";
+
+"Event Description" = "活動詳情";
+
+"Awesome venue, best view by the harbor" = "美好的場地，看到最美的海港景色";
+
+"Confirm Booking" = "確認預約";
+
+"Cancel" = "取消";
+
+
+
+"No" = "取消";
+
+"Call" = "撥出";
+
+
+
+"Profile & Settings" = "檔案及設定";
+
+"General Information" = "一般資訊";
+
+"Restaurant Name" = "餐廳名稱";
+
+"Location" = "地點";
+
+"Telephone Number" = "電話號碼";
+
+"Cuisine" = "菜式";
+
+"Cost per Person" = "人均消費";
+
+"Other Information" = "其他資訊";
+
+"Opening Hours" = "開放時間";
+
+"Signature Dishes" = "著名菜式";
+
+"Overview Description" = "簡介";
+
+"Facilities" = "設施";
+
+"Number of Seats" = "座位數量";
+
+"Payment Methods" = "付款方法";
+
+"Upload Menu" = "上載菜單";
+
+"Upload Photos" = "上載相片";
+
+
+
+"Log out" = "登出";
+
+"Dashboard" = "大綱模版";
+
+"Allow Notification" = "允許通知";
+
+"Email Notification" = "郵件通知";
+
+"Sounds" = "聲音";
+
+"Show on Lock Screen" = "在鎖屏上顯示";
+
+"Message Admin" = "給管理員發送信息";
+
+
+
+"Name" = "名稱";
+"Subject" = "主旨";
+"Message" = "信息";
+"Send" = "發送";
+
+
+"Yesterday" = "昨天";
+"hours ago" = "小時前";
+"minutes ago" = "分鐘前";
+"Just now" = "剛剛";
+
