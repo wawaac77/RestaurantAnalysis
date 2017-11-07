@@ -4,6 +4,8 @@ Daily analysis for restaurant owners
 For restaurant owners' to know better about their restaurant! ❤️
 
 Every of the following information is clear in our APP, any of the section you want to see can be customized to display.
+
+
 🌿 Booking: 
     Check pending booking and history booking;
     Accept booking and decline booking;
